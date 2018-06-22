@@ -15,6 +15,15 @@ article {
   color: #8e24aa;
 }
 
+.fa-icon{
+  font-size:48px;
+}
+
+.fa_heart{
+  font-size:36px;
+  color:red;
+}
+
 @media only screen and (max-width: 360px) {
   .info {
     text-align: center;
