@@ -15,13 +15,13 @@ article {
   color: #8e24aa;
 }
 
-.fa-icon{
-  font-size:48px;
+.fa-icon {
+  font-size: 48px;
 }
 
-.fa_heart{
-  font-size:36px;
-  color:red;
+.fa_heart {
+  font-size: 36px;
+  color: red;
 }
 
 @media only screen and (max-width: 360px) {
@@ -132,8 +132,7 @@ article {
     border: 0.2em solid black;
     border-radius: 20%;
     width: 60%;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 0 20px;
     height: 400px;
     padding: 20px;
   }
